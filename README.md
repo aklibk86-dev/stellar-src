@@ -3,38 +3,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-aklibk86--dev%2Fstellar-181717?logo=github)](https://github.com/aklibk86-dev/stellar)
 
 **项目仓库：<https://github.com/aklibk86-dev/stellar>**
+**项目文档：<https://stellar.aklibk.wiki>**
 
 Stellar Theme 是一套面向 XBoard 的现代化用户端主题。项目采用 Vue 3、TypeScript 与 Vite 构建，为用户提供落地页、认证、套餐购买、订单、工单、邀请、知识库、流量统计、订阅导入和个人资料等完整功能。
 
 项目支持中英文切换、深浅色主题、响应式布局、多 API 地址可用性检测、运行时配置、子目录部署以及 CDN 静态资源加速。大部分站点信息和 API 设置均可通过 `public/env.js` 修改，生产环境调整配置时通常不需要重新构建。
-
-## 项目预览
-
-### 落地页
-
-展示品牌信息、产品特点、服务数据、套餐和常见问题，为访客提供完整的产品了解与注册入口。
-
-![Stellar Theme 落地页](docs/images/landing.png)
-
-### 用户仪表盘
-
-集中展示账户、订阅、流量和快捷操作等常用信息。
-
-![Stellar Theme 用户仪表盘](docs/images/dashboard.png)
-
-### 套餐页面
-
-展示 XBoard 后端配置的可售套餐，用户可以选择套餐并进入结算流程。
-
-![Stellar Theme 套餐页面](docs/images/plans.png)
-
-### 移动端效果
-
-响应式布局适配手机等小屏设备，方便用户随时查看账户和管理订阅。
-
-<p align="center">
-  <img src="docs/images/mobile.png" alt="Stellar Theme 移动端效果" width="360">
-</p>
 
 ## 项目介绍
 
